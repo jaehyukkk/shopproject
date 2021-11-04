@@ -1,0 +1,65 @@
+
+
+.oder-list-title{
+    cursor:pointer;
+   
+}
+.ordertitle{
+    margin-top: 100px;
+}
+
+/* *{
+	font-family: 'Noto Serif KR', serif;
+} */
+
+
+
+
+
+#dataTable{
+ 
+    
+    font-size: 13px;
+   
+  
+}
+
+#projectgage{
+    width: 1650px;
+}
+
+
+
+
+.neworders{
+    font-size: 13px;
+}
+.orderspan{
+    font-size: 12px;
+}
+
+.orderState{
+    display: flex;
+}
+.orderState select,.orderState button {
+    border: solid 1px #dadada;
+    color:gray;
+    border-radius: 2px;
+}
+
+select:focus {
+    outline:none;
+    background-color: white;
+   
+}
+
+.table{
+    border-bottom: gray;
+    background: white;
+}
+
+.titleSC{
+    font-size: 12px;
+}
+
+

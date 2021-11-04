@@ -1,0 +1,43 @@
+.shop_board_ul{
+    display: flex;
+    list-style: none;
+   
+}
+
+#shop_board_li{
+    margin-right: 30px;
+}
+
+
+.shop_board{
+    margin-top: 150px;
+    display: flex;
+    justify-content: center;
+   
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.ass{
+    border: 1px, solid, gray;
+}
+
+.img{
+    width: 300px;
+    height: 400px;
+}
+
+.container{
+    margin-top: 100px;
+    
+}
+
+.row{
+
+    display: flex;
+    list-style: none;
+
+}

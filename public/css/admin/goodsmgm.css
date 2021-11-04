@@ -1,0 +1,18 @@
+table{
+    font-size: small;
+  
+}
+.goodsMgmImg{
+    width: 6em;
+    height: 8em;
+}
+.goodsMgmBtn{
+    display: flex;
+}
+.goodsMgmBtn button{
+    border : 0;
+    background-color: white;
+}
+.goodsMgmTitle{
+    cursor: pointer;
+}

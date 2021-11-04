@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300&display=swap');
+
+.catadd_div{
+    
+    display:flex;
+    justify-content: center;
+}
+
+#plusIcon{
+    cursor: pointer;
+}
+.categoryname{
+    margin-left: 20px;
+    margin-right: 2px;
+    cursor: pointer;
+    font-family: 'Noto Sans KR', sans-serif;
+}
+.mainCategoryList i{
+    font-size: 10px;
+}
+.mainCategoryTitle b{
+    font-size: 30px;
+    font-family: 'Noto Sans KR', sans-serif;
+
+}
+.mainCategoryTitle{
+    margin-bottom: 20px;
+}
+.catadd_div{
+    font-family: 'Noto Sans KR', sans-serif;
+}
+.catadd_input{
+    border: solid 1px #dadada;
+    width: 160px;
+    height: 30px;
+    border-radius:2px;
+}
+.cat_result{
+    border: solid 1px #dadada;
+    color:gray;
+    border-radius:2px;
+}
+.categoryBox{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+  
+}
+/* .mainCategory{
+    display: flex;
+    justify-content: center;
+} */
+
+.mainCategoryList{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    
+}
+
+
+.categoryborder{
+    border-bottom: 1px solid #dadada;
+    display: block;
+    width: 600px;
+    margin-bottom: 40px;
+    margin-top: 150px;
+}
+
+.secondCategoryTitle b{
+
+    font-size: 25px;
+    font-family: 'Noto Sans KR', sans-serif;
+   
+
+}
+
+.secondCategoryTitle {
+    margin-bottom: 20px;
+}
+
+.scCategoryName{
+    margin-right: 3px;
+    cursor: pointer;
+    font-family: 'Noto Sans KR', sans-serif;
+    margin-bottom: 3px;
+    font-size: 17px;
+}
+
+
+.cataddd_div{
+    display: none;
+}
+
+.cataddd_active{
+    display: flex;
+    justify-content: center;
+    font-family: 'Noto Sans KR', sans-serif;
+    margin-top: 15px;
+}
+
+.catadd2_input{
+    border: solid 1px #dadada;
+    width: 160px;
+    height: 30px;
+    border-radius:2px;
+}
+.cat2_result{
+    border: solid 1px #dadada;
+    color:gray;
+    border-radius:2px;
+}
+
+.categoryDel{
+    cursor: pointer;
+}
+.scCategorys{
+    display: flex;
+    justify-content: center; 
+}
+.scCategorys i{
+    font-size: 5px;
+}
+
+input:focus {
+    outline:none;
+    background-color: white;
+    color:gray
+}
+
+
+
+
